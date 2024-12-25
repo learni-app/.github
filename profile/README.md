@@ -1,12 +1,17 @@
-## Hi there 👋
+# Learni (Project LearnX)
 
-<!--
+**Learni** is a modern Learning Management System (LMS) designed for **K-12 schools, colleges, and universities**. It provides a seamless and efficient platform for managing courses, assignments, attendance, communication, and more.
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Features
+- User-friendly interface for students, educators, and administrators.  
+- Uses a custom High performance CSS utility framework **syni**, built using **rust**. 
+    - takes about 80% - 90% less space compared to tailwind.
+    - Faster to type and debug.
+    - Faster formatting and class name analysis.
+    - outputs < 30KB of CSS for entire project. incl: Hover, Disabled, etc.
+- Real-time communication powered by **NATS**.  
+- High-performance backend built with **Rust** and **KeyDB** caching.  
+- Advanced course content management with a **SvelteKit** frontend.  
+- Scalable and secure, ideal for institutions of any size.
