@@ -1,6 +1,6 @@
 # Learni (Project LearnX)
 
-**Learni** is a modern Learning Management System (LMS) designed for **K-12 schools, colleges, and universities**. It provides a seamless and efficient platform for managing courses, assignments, attendance, communication, and more.
+**Learni** is a Next-Generation of Learning Management System (LMS) designed for **K-12 schools, colleges, and universities** of any scale. It provides a seamless and efficient platform for managing courses, Real time communication, events, Student engagement and more.
 
 ---
 
